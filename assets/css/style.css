@@ -7179,6 +7179,13 @@ textarea.form-control-lg {
 .fw-light {
   font-weight: 300 !important;
 }
+.fw-light-5 {
+  font-weight: 400 !important;
+  /* padding-top: 12rem !important; */
+  /* padding-right: 0.2% !important; */
+  padding-left: 6% !important; 
+  margin: 1% !important;
+}
 
 .fw-lighter {
   font-weight: lighter !important;
@@ -7190,6 +7197,7 @@ textarea.form-control-lg {
 
 .fw-bold {
   font-weight: 700 !important;
+  padding-top: 10rem !important;
 }
 
 .fw-bolder {
@@ -10795,7 +10803,7 @@ textarea.form-control-lg {
 }
 .display-2--intro {
   display: inline-block;
-  font-weight: 700;
+  font-weight: 600;
   font-family: "Poppins", sans-serif;
 }
 .display-2--description {
@@ -10806,7 +10814,7 @@ textarea.form-control-lg {
 }
 @media (min-width: 992px) {
   .display-2--description {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     display: inline-block;
   }
 }
